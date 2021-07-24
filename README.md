@@ -1,4 +1,4 @@
-Restaurant
+CakeCafe
 ==========
 
-A template for Restaurant business
+A template for Cake shop
